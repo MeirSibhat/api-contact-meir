@@ -1,0 +1,6 @@
+
+{
+    "mongoServer":"mongodb+srv://meir:meir1221@cluster0-47zid.gcp.mongodb.net/contactDb?retryWrites=true&w=majority"
+  }
+  
+  
